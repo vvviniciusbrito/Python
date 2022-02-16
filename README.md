@@ -1,7 +1,7 @@
 # Python
 For my developments in Python
 
-In this repository i will publish my works with and studies with Python.
+In this repository i will publish my works and studies with Python.
 
 At the moment, the only project available is a Web Scraping, bellow more details about the project:
 
