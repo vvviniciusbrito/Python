@@ -1,5 +1,4 @@
 # Python
-For my developments in Python
 
 In this repository i will publish my works and studies with Python.
 
